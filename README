@@ -1,0 +1,23 @@
+# Zuba 
+
+Zuba is an online shop selling Rwandan culture materials including decoration, jewerly, clothes, paintings among others. we sell our products in Canada directly exported as fresh from Rwanda. // copyright (c) 2024
+
+## Description
+
+Provide a more detailed introduction to your project. Highlight the features, the goals, and what problem it solves. You can also list the technologies and frameworks used, the project's structure, and any unique characteristics.
+
+## Getting Started
+
+### Dependencies
+
+- List any libraries, frameworks, or tools that your project depends on.
+- Mention the environment needed to run the project (e.g., Node.js for a JavaScript project, Python version for a Python project).
+
+### Installing
+
+Provide step-by-step instructions on how to get a development environment running.
+
+```bash
+git clone https://github.com/yourusername/yourprojectname.git
+cd yourprojectname
+# any additional commands to install dependencies or compile the project
