@@ -18,6 +18,6 @@ Provide a more detailed introduction to your project. Highlight the features, th
 Provide step-by-step instructions on how to get a development environment running.
 
 ```bash
-git clone https://github.com/yourusername/yourprojectname.git
-cd yourprojectname
+git clone https://github.com/deboss00xx/zuba.git
+cd zuba
 # any additional commands to install dependencies or compile the project
