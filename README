@@ -1,23 +1,38 @@
-# Zuba 
+# Zuba
 
-Zuba is an online shop selling Rwandan culture materials including decoration, jewerly, clothes, paintings among others. we sell our products in Canada directly exported as fresh from Rwanda. // copyright (c) 2024
+Zuba is an online shop selling Rwandan cultural materials, including decorations, jewelry, clothing, paintings, and more. We directly export our products from Rwanda to Canada, ensuring freshness and authenticity for our customers.
 
 ## Description
 
-Provide a more detailed introduction to your project. Highlight the features, the goals, and what problem it solves. You can also list the technologies and frameworks used, the project's structure, and any unique characteristics.
+Zuba aims to bridge the gap between Rwandan culture and Canadian consumers by offering a diverse range of cultural items. Our shop not only showcases beautiful crafts but also tells the story of Rwandan heritage. The project features:
+
+- User-Friendly Interface: Easy navigation and a seamless shopping experience.
+- Cultural Diversity: A variety of products that highlight Rwandan craftsmanship.
+- irect Sourcing: Products are directly exported from Rwanda, ensuring quality and freshness.
+
+### Technologies Used
+
+- Frontend: HTML, CSS, JavaScript (with any frameworks you may be using, e.g., React, Vue)
+- Backend: Node.js, Express 
+- Database: MongoDB, MySQL 
+- Version Control: Git, GitHub
 
 ## Getting Started
 
 ### Dependencies
 
-- List any libraries, frameworks, or tools that your project depends on.
-- Mention the environment needed to run the project (e.g., Node.js for a JavaScript project, Python version for a Python project).
+To run this project, you need the following:
+
+- Node.js (version)
+- Any additional libraries or frameworks as specified in your `package.json` file
 
 ### Installing
 
-Provide step-by-step instructions on how to get a development environment running.
+Follow these steps to get a development environment running:
 
-```bash
-git clone https://github.com/deboss00xx/zuba.git
-cd zuba
-# any additional commands to install dependencies or compile the project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/OlivierNDev/zuba.git
+
+
+
